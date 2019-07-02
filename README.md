@@ -1,3 +1,6 @@
 # daily
-Initial use of GIT to upload projects
+addpeople 素材上传类 可以在其中修改路径
+gui UI主界面，可以实现上传素材，打开摄像头，素材命名等操作
+choiceEXE  实现人脸识别的主类，通过扫描素材库中文件名以及将相应的图片转为为二进制流，进行比对使用
+savelist   保存签到成功的人名字
 
